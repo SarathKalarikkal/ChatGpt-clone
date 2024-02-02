@@ -66,7 +66,7 @@ const darkMode = ()=>{
 // ------------Fecthing the openAi api--------------
 
 const API_URL = "https://api.openai.com/v1/chat/completions"
-const API_KEY = "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"
+const API_KEY = "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"
 
 
 
